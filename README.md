@@ -20,7 +20,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-brightgreen.svg)](...)
 
 [![C++](https://img.shields.io/badge/Language-C++20_%7C_C++23-orange.svg)](https://isocpp.org/)
-[![CUDA](https://img.shields.io/badge/CUDA-v12.1_%7C_v12.2_%7C_v12.3_%7C_v12.4_%7C_v12.5_%7C_v12.6_%7C_v12.7_%7C_v12.8-%2376B900?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit-archive)
+[![CUDA](https://img.shields.io/badge/CUDA-v12.5_%7C_v12.6_%7C_v12.7_%7C_v12.8-%2376B900?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit-archive)
 [![Python](https://img.shields.io/badge/python-v3.8_%7c_v3.9_%7c_v3.10%7c_v3.11%7c_v3.12%7c_v3.13-blue?logo=python)](https://www.python.org/)
 [![CMake](https://img.shields.io/badge/CMake-v3.20-%23008FBA?logo=cmake)](https://cmake.org/)
 
