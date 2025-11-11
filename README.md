@@ -11,7 +11,7 @@
 [//]: # "WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied."
 [//]: # "See the GNU General Public License for more details."
 
-# Photrix
+# Photrix: A Modern Library for 3D Reconstruction
 
 [![License](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
